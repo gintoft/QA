@@ -1,0 +1,12 @@
+// Jira
+
+http://qa-lab.cloud-pro.ru:8080/browse/CAL-18
+http://qa-lab.cloud-pro.ru:8080/browse/CAL-19
+http://qa-lab.cloud-pro.ru:8080/browse/CAL-20
+http://qa-lab.cloud-pro.ru:8080/browse/CAL-21
+http://qa-lab.cloud-pro.ru:8080/browse/CAL-22
+http://qa-lab.cloud-pro.ru:8080/browse/CAL-23
+http://qa-lab.cloud-pro.ru:8080/browse/CAL-24
+http://qa-lab.cloud-pro.ru:8080/browse/CAL-25
+http://qa-lab.cloud-pro.ru:8080/browse/CAL-26
+http://qa-lab.cloud-pro.ru:8080/browse/CAL-27
